@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1040" viewBox="0 0 1000 1040" role="img" aria-labelledby="title desc">
+<title id="title">交互怎样变成学习经验</title><desc id="desc">智能体选择动作，世界模型预测环境变化，新观察返回智能体。交互记录被收集并用于后续训练，才可能改进能力。图中分工以 SIMA 2 与 Genie 3 的组合为例。</desc>
+<defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M1 1 L9 5 L1 9" fill="none" stroke="#35655b" stroke-width="1.6"/></marker></defs>
+<rect width="1000" height="1040" rx="24" fill="#f5f2e9"/>
+<g font-family="PingFang SC,Microsoft YaHei,Noto Sans CJK SC,sans-serif">
+<text x="64" y="72" font-size="22" fill="#72877b" letter-spacing="3">概念图 01 · 交互与学习</text>
+<text x="64" y="132" font-size="42" font-weight="700" fill="#233e35">经验怎样积累，能力怎样改进</text>
+<text x="64" y="177" font-size="25" fill="#737d73">上半部分是一次次交互，下半部分是后续训练。</text>
+<rect x="64" y="242" width="368" height="220" rx="18" fill="#214f42"/>
+<text x="96" y="294" font-size="23" fill="#c0d8cd">智能体 · 例如 SIMA 2</text>
+<text x="96" y="351" font-size="35" font-weight="700" fill="#fffdf4">观察、选择动作</text>
+<text x="96" y="408" font-size="26" fill="#d4e4dc">“向杯子移动”</text>
+<rect x="568" y="242" width="368" height="220" rx="18" fill="#e0e8df"/>
+<text x="600" y="294" font-size="23" fill="#45685b">世界模型 · 例如 Genie 3</text>
+<text x="600" y="351" font-size="35" font-weight="700" fill="#24483b">生成环境变化</text>
+<text x="600" y="408" font-size="26" fill="#49695b">“行动之后看到了什么”</text>
+<path d="M445 347 H554" fill="none" stroke="#35655b" stroke-width="4" marker-end="url(#arrow)"/>
+<text x="469" y="319" font-size="24" fill="#35655b">动作</text>
+<path d="M750 479 V547 H248 V479" fill="none" stroke="#35655b" stroke-width="4" marker-end="url(#arrow)"/>
+<rect x="395" y="525" width="210" height="45" rx="10" fill="#f5f2e9"/>
+<text x="500" y="556" text-anchor="middle" font-size="26" fill="#35655b">新的观察与反馈</text>
+<path d="M500 592 V657" fill="none" stroke="#bd7049" stroke-width="3" stroke-dasharray="8 8"/>
+<text x="530" y="633" font-size="24" fill="#9f5a38">保存交互记录</text>
+<rect x="64" y="688" width="254" height="152" rx="16" fill="#fffdf7" stroke="#d6d3c5" stroke-width="2"/>
+<text x="191" y="746" text-anchor="middle" font-size="28" font-weight="700" fill="#3f4a3e">积累经验</text>
+<text x="191" y="797" text-anchor="middle" font-size="23" fill="#788073">记录做法与结果</text>
+<path d="M333 765 H366" fill="none" stroke="#35655b" stroke-width="3" marker-end="url(#arrow)"/>
+<rect x="380" y="688" width="240" height="152" rx="16" fill="#fffdf7" stroke="#d6d3c5" stroke-width="2"/>
+<text x="500" y="746" text-anchor="middle" font-size="28" font-weight="700" fill="#3f4a3e">后续训练</text>
+<text x="500" y="797" text-anchor="middle" font-size="23" fill="#788073">利用反馈调整模型</text>
+<path d="M635 765 H670" fill="none" stroke="#35655b" stroke-width="3" marker-end="url(#arrow)"/>
+<rect x="684" y="688" width="252" height="152" rx="16" fill="#e8d8c6"/>
+<text x="810" y="746" text-anchor="middle" font-size="28" font-weight="700" fill="#6b4935">检验是否进步</text>
+<text x="810" y="797" text-anchor="middle" font-size="23" fill="#80604c">在独立任务中测试</text>
+<line x1="64" y1="901" x2="936" y2="901" stroke="#d8dacf" stroke-width="2"/>
+<text x="64" y="948" font-size="28" font-weight="700" fill="#294c3e">“可以活动”与“学得更好”，需要分别证明。</text>
+<text x="64" y="994" font-size="21" fill="#7b8377">原创示意图 · 依据 Google DeepMind 公开研究整理，并非产品界面</text>
+</g></svg>

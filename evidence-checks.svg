@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1160" viewBox="0 0 1000 1160" role="img" aria-labelledby="title desc">
+<title id="title">评价世界模型，要看三类证据</title><desc id="desc">依次区分画面与状态是否连贯，行动后果是否合理，以及训练是否改善独立环境中的任务表现。三类证据不能相互替代。</desc>
+<rect width="1000" height="1160" rx="24" fill="#f5f2e9"/>
+<g font-family="PingFang SC,Microsoft YaHei,Noto Sans CJK SC,sans-serif">
+<text x="64" y="72" font-size="22" fill="#72877b" letter-spacing="3">概念图 02 · 能力与证据</text>
+<text x="64" y="132" font-size="42" font-weight="700" fill="#233e35">一个世界模型，有用到哪一步？</text>
+<text x="64" y="177" font-size="25" fill="#737d73">三类证据回答不同问题，不能相互替代。</text>
+<rect x="64" y="226" width="872" height="246" rx="18" fill="#fffdf7" stroke="#e1e0d5" stroke-width="2"/>
+<rect x="93" y="260" width="174" height="174" rx="14" fill="#e6eee4"/>
+<path d="M132 316 H200 V366 Q166 390 132 366 Z M200 324 C235 318 235 360 200 357" fill="#50745f" stroke="#50745f" stroke-width="6"/>
+<path d="M119 392 H234" stroke="#8da38c" stroke-width="4"/>
+<text x="305" y="284" font-size="23" fill="#7a8b77">01 · 观察连续性</text>
+<text x="305" y="332" font-size="32" font-weight="700" fill="#2e4b3b">转身再回来，杯子还在原处吗？</text>
+<text x="305" y="382" font-size="25" fill="#687465">检查物体状态、空间关系和长期一致性。</text>
+<text x="305" y="426" font-size="24" fill="#8c765f">画面顺滑，仍可能悄悄改变状态。</text>
+<rect x="64" y="506" width="872" height="246" rx="18" fill="#fffdf7" stroke="#e1e0d5" stroke-width="2"/>
+<rect x="93" y="540" width="174" height="174" rx="14" fill="#eee3d5"/>
+<path d="M126 615 H169 V653 Q148 667 126 653 Z M170 621 C187 617 188 642 170 642" fill="#b48259" stroke="#b48259" stroke-width="5"/>
+<path d="M119 678 H235 M187 593 H232 M220 581 L233 593 L220 605" fill="none" stroke="#98623d" stroke-width="5" stroke-linecap="round"/>
+<text x="305" y="564" font-size="23" fill="#9c7857">02 · 行动后果</text>
+<text x="305" y="612" font-size="32" font-weight="700" fill="#554735">换一种动作，结果合理地变化吗？</text>
+<text x="305" y="662" font-size="25" fill="#766d5d">检查动作响应、接触、碰撞及其持续影响。</text>
+<text x="305" y="706" font-size="24" fill="#8c765f">能响应输入，仍不等于物理后果准确。</text>
+<rect x="64" y="786" width="872" height="246" rx="18" fill="#214f42"/>
+<rect x="93" y="820" width="174" height="174" rx="14" fill="#346452"/>
+<path d="M119 942 V874 L156 848 L195 874 V942 Z M171 942 V899 H193 V942 M211 859 V916 M202 906 L211 918 L223 904" fill="none" stroke="#deeadc" stroke-width="5" stroke-linejoin="round"/>
+<text x="305" y="844" font-size="23" fill="#b2cfbf">03 · 训练价值</text>
+<text x="305" y="892" font-size="32" font-weight="700" fill="#fffdf4">练过以后，换个环境更会做了吗？</text>
+<text x="305" y="942" font-size="25" fill="#d5e4d8">在可比较条件下，检验独立任务的表现。</text>
+<text x="305" y="986" font-size="24" fill="#d5e4d8">虚拟环境中的进步，还需现实验证。</text>
+<text x="64" y="1105" font-size="22" fill="#7b8377">原创分析图 · 无虚构分数、性能排名或实验数据</text>
+</g></svg>
